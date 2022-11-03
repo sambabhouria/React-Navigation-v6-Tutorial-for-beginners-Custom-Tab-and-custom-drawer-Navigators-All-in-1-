@@ -8,9 +8,9 @@ Welcome to react navigation v6 crash course and in this tutorial you will learn 
 ### `screenShot`
 
 ### `IOS`
-<img src="src/assets/img/1.png" width="300" height="300"/>
-<img src="src/assets/img/2.png" width="300" height="300"/>
-<img src="src/assets/img/3.png" width="300" height="300"/>
+<img src="src/assets/img/1.png">
+<img src="src/assets/img/2.png">
+<img src="src/assets/img/3.png"/>
 <img src="src/assets/img/4.png"/>
 <img src="src/assets/img/5.png"/>
 <img src="src/assets/img/6.png"/>
